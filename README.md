@@ -8,3 +8,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Patrickx7&show_icons=true&theme=dark) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrickx7&layout=compact&theme=dark)
+
+
+![stats](https://github-readme-stats.vercel.app/api?username=Patrickx7)
