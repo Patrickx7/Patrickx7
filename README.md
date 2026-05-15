@@ -1,8 +1,8 @@
 # Olá, eu sou Patrick 👋
 
-💻 Desenvolvedor Front-End  
+💻 Desenvolvedor FullStack
 🚀 Estudando React, Next.js e TypeScript  
-📚 ADS - Anhanguera  
+📚 Engenharia de Software 
 🎮 Gamer e streamer nas horas vagas
 
 ## 📊 Estatísticas do GitHub
