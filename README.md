@@ -7,11 +7,11 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Patrickx7 GitHub stats](https://github-readme-stats.vercel.app/api?username=Patrickx7&show_icons=true&theme=radical&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Patrickx7)
 
 ## 💻 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrickx7&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrickx7&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ## 🔥 Streak (sequência de commits)
 
