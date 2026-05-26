@@ -14,13 +14,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=tokyonight"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&theme=tokyonight"/>
-</p>
-
 ## 🔥 Streak (sequência de commits)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Patrickx7&theme=radical&hide_border=true)
