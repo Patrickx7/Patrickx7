@@ -8,7 +8,7 @@
 
 ## 💻 Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickmoura&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickmoura&layout=compact&langs_count=8&theme=tokyonight)
 
 
 ## 💻 Tecnologias que estudo
