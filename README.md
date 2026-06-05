@@ -15,6 +15,10 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
+## 📊 GitHub Stats
+
+![snake gif](https://github.com/Patrickx7/Patrickx7/blob/output/github-snake-dark.svg)
+
 ## 🔥 Streak (sequência de commits)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Patrickx7&theme=radical&hide_border=true)
