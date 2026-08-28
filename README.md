@@ -17,7 +17,7 @@
 
 ## 🔥 Streak (sequência de commits)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Patrickx7&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Patrickx7&theme=radical&hide_border=true)
 
 ## 📊 GitHub Stats
 
