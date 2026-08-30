@@ -1,10 +1,9 @@
 # Olá, eu sou Patrick 👋
 
-💼 Desenvolvedor Júnior na Z3US AI
-🎓 Cursando Engenharia de Software (Universidade Anhanguera) · Formado em Análise e Desenvolvimento de Sistemas
-🌱 Aprofundando em TypeScript, Node.js e arquitetura de aplicações
-🌐 Inglês intermediário (B1)
-
+- 💼 Desenvolvedor Júnior na Z3US AI
+- 🎓 Cursando Engenharia de Software (Universidade Anhanguera) · Formado em Análise e Desenvolvimento de Sistemas
+- 🌱 Aprofundando em TypeScript, Node.js e arquitetura de aplicações
+- 🌐 Inglês intermediário (B1)
 
 ## 💻 Tecnologias que estudo
 
