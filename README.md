@@ -43,3 +43,11 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
   <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" alt="Hostinger" />
 </p>
+
+## 🔥 Streak (sequência de commits)
+
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Patrickx7&theme=radical&hide_border=true)
+
+## 📊 GitHub Stats
+
+![snake gif](https://github.com/Patrickx7/Patrickx7/blob/output/github-snake-dark.svg)
