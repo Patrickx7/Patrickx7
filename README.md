@@ -1,9 +1,9 @@
 # Olá, eu sou Patrick 👋
 
-💻 Desenvolvedor FullStack
-🚀 Estudando JavaScript, React, Node.js e Next.js  
-📚 Engenharia de Software 
-🎮 Gamer e streamer nas horas vagas
+💼 Desenvolvedor Júnior na Z3US AI
+🎓 Cursando Engenharia de Software (Universidade Anhanguera) · Formado em Análise e Desenvolvimento de Sistemas
+🌱 Aprofundando em TypeScript, Node.js e arquitetura de aplicações
+🌐 Inglês intermediário (B1)
 
 
 ## 💻 Tecnologias que estudo
