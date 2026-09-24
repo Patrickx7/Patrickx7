@@ -44,8 +44,8 @@
 
 ## 🔥 Streak (sequência de commits)
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Patrickx7&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Patrickx7&theme=radical&hide_border=true)
 
 ## 📊 GitHub Stats
 
-![snake gif](https://github.com/Patrickx7/Patrickx7/blob/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/Patrickx7/Patrickx7/output/github-snake-dark.svg)
